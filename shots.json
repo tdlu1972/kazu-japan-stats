@@ -1,0 +1,6 @@
+[
+  { "file": "1-home.jpg", "path": "#/", "viewport": { "width": 1280, "height": 800 } },
+  { "file": "2-prefectures.jpg", "path": "#/prefectures?measure=density&sort=density", "viewport": { "width": 1280, "height": 800 } },
+  { "file": "3-indicator.jpg", "path": "#/indicator/population?range=all", "viewport": { "width": 1280, "height": 800 } },
+  { "file": "4-phone-topic.jpg", "path": "#/topic/births-deaths", "viewport": { "width": 390, "height": 844 } }
+]
